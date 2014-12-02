@@ -1,5 +1,5 @@
 Package: nofalThesis
-Title: What the package does (one line)
+Title: Shared thesis functions
 Version: 0.1
 Authors@R: "First Last <first.last@example.com> [aut, cre]"
 Description: What the package does (one paragraph)
