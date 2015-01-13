@@ -8,3 +8,7 @@
 add_one <- function(x) {
   x + 1
 }
+
+add_two <- function(x) {
+  x + 2
+}
